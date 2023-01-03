@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+  scroll-behavior: smooth;
+}
+
+.j4{
+  background-image: url("https://www.kicksonfire.com/wp-content/uploads/2022/08/air-jordan-4-thunder-2023-5.jpeg?x58464");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.dunk{
+  background-image: url("https://sneakernews.com/wp-content/uploads/2020/08/nike-sb-dunk-low-j-pack-chicago-BQ6817-600-5.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.main-content{
+  background-image: url("https://www.kicksonfire.com/wp-content/uploads/2022/03/Nike-SB-Dunk-Low-Paisley-DH7534-200-Release-Date-01.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.shoe{
+  transition: cubic-bezier(0.175, 0.885, 0.32, 1.275) all 0.5s;
+}
+.App{
+  
+}

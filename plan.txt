@@ -1,0 +1,5 @@
+Create and setup basic libraries - [1]
+Add basic components and layout - [0]
+Create the basic store front & add styling - [0]
+Setup the backend with flask or maybe mongodb/firebase - [0]
+Add payment integration - [0]
